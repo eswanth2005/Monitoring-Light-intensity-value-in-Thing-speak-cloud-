@@ -1,7 +1,7 @@
 # EX-04:Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
-## NAME : HARIHARAN J
-## REG NO : 212223240047
+### NAME : ESWANTH KUMAR K
+### REG NO : 212223040046
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
 # Apparatus required:
